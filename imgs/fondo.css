@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding:0;
+}
+/*colores de fuente*/
+.button {
+  background:#7f8c8d;
+  color:#fff;
+  display:block;
+  font-size: 1.10em;
+  margin: 20px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 195px;
+  text-decoration: none;
+  box-shadow: 0px 3px 0px #373c3c;
+
+}
+.button span {
+  margin-right: 8px;
+}
+/*colores*/
+.button.blue{
+  background: #3498db;
+  box-shadow: 0px 3px 0px #266792;
+}
